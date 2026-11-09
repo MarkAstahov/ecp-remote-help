@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://markastahov.github.io/ecp-remote-help/sitemap.xml

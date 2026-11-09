@@ -1,0 +1,12 @@
+# OS / editors
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
+# Local preview / temporary
+*.log
+*.tmp
+*.bak
+share_link.txt
